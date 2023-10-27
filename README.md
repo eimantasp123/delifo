@@ -1,2 +1,2 @@
-# delifo
+# Delifo
 Delifo project
