@@ -4,6 +4,10 @@
 
 Delifo is an AI-powered food subscription service that provides personalized meal plans and delivers healthy meals to your door every day. This web page showcases the Delifo service, its features, and customer testimonials.
 
+## Demo
+
+You can view a live demo of this project [here](https://eimantasp123.github.io/delifo/).
+
 ## Features
 
 - **Responsive Design:** The web page is designed to be fully responsive, ensuring a great user experience on all devices.
